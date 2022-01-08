@@ -40,7 +40,7 @@ Calculate the area within a latittude longitude polygon
       O  |                    | T                   |
       N  |                    | U                   |
       G  |                    | D                   |
-      I  |  0° EQUATOR        | E  0° EQUATOR        |
+      I  |  0° EQUATOR        | E  0° EQUATOR       |
       T  |--------------------+---------------------+ 0.0° EQUATOR
       U  |                    | 0°                  |
       D  |                    | L                   |
@@ -143,7 +143,7 @@ Calculate the area within a latittude longitude polygon
       plot lon*lat='+' $anno / box vref=0 ;
     run;quit;
 
-    * Then edit with the powerful 1080's classical SAS editor
+    * Then edit with the powerful 1980's classical SAS editor
 
     /*              _
       ___ _ __   __| |
